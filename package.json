@@ -1,4 +1,6 @@
 {
+  "homepage": "https://vahit-emre.github.io/portfolio",
+
   "name": "portofolio-v5",
   "private": true,
   "version": "0.0.0",
@@ -8,6 +10,7 @@
   "build": "vite build",
   "preview": "vite preview",
   "deploy": "gh-pages -d dist"
+  
 }
 ,
   "dependencies": {
@@ -64,4 +67,5 @@
     "vite": "^5.4.10"
     
   }
+  
 }
